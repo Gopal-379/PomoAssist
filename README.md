@@ -3,7 +3,7 @@
 First download the PomoAssist.zip file<br>
 
 
-Unzip the downloaded folder and open chrome browser and search for chrome://extensions.<br>
+Unzip the downloaded folder and open chrome browser and search for [chrome://extensions.](chrome://extensions)<br>
 
 On top right corner you can see developer mode-switch to developer mode.<br>
 
